@@ -1,0 +1,38 @@
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\bin\Debug\netcoreapp3.1\FreshFruit.exe
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\bin\Debug\netcoreapp3.1\FreshFruit.deps.json
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\bin\Debug\netcoreapp3.1\FreshFruit.runtimeconfig.json
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\bin\Debug\netcoreapp3.1\FreshFruit.runtimeconfig.dev.json
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\bin\Debug\netcoreapp3.1\FreshFruit.dll
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\bin\Debug\netcoreapp3.1\FreshFruit.pdb
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.csprojAssemblyReference.cache
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit_MarkupCompile.cache
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit_MarkupCompile.lref
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.g.resources
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.AssemblyInfoInputs.cache
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.AssemblyInfo.cs
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.csproj.CoreCompileInputs.cache
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.dll
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.pdb
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.genruntimeconfig.cache
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\bin\Debug\netcoreapp3.1\FreshFruit.exe
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\bin\Debug\netcoreapp3.1\FreshFruit.deps.json
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\bin\Debug\netcoreapp3.1\FreshFruit.runtimeconfig.json
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\bin\Debug\netcoreapp3.1\FreshFruit.runtimeconfig.dev.json
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\bin\Debug\netcoreapp3.1\FreshFruit.dll
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\bin\Debug\netcoreapp3.1\FreshFruit.pdb
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.csprojAssemblyReference.cache
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit_MarkupCompile.cache
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit_MarkupCompile.lref
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.g.resources
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.AssemblyInfoInputs.cache
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.AssemblyInfo.cs
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.csproj.CoreCompileInputs.cache
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.dll
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.pdb
+C:\Users\Alfiyan N\Downloads\Compressed\FreshFruit - Copy - Copy\FreshFruit\obj\Debug\netcoreapp3.1\FreshFruit.genruntimeconfig.cache
